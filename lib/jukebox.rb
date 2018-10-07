@@ -1,4 +1,5 @@
 def help 
+  help = 
 
 
 def exit_jukebox
