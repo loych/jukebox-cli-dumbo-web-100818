@@ -1,4 +1,4 @@
-def exit_jukebox (word)
+def exit_jukebox
 puts "Goodbye"
 end
 
