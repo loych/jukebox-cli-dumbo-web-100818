@@ -7,6 +7,7 @@ I accept the following commands:
 - exit : exits this program
 puts help
 end
+end
 
 
 def list(songs)
