@@ -1,11 +1,6 @@
 def exit_jukebox (word)
-end
- 
 puts "Goodbye"
-
- 
-puts exit_jukebox(word)
-
+end
 
 songs = [
   "Phoenix - 1901",
