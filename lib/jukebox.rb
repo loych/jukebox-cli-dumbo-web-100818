@@ -8,7 +8,7 @@ I accept the following commands:
 puts help
 end
 end
-
+end
 
 def list(songs)
   songs.each_with_index { |item, index|
