@@ -9,6 +9,9 @@ I accept the following commands:
 puts help
 end
 
+def list(songs)
+  
+
 def exit_jukebox
 puts "Goodbye"
 end
