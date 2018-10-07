@@ -2,7 +2,7 @@ def exit_jukebox (word)
 end
  
 puts "Goodbye"
-word = gets.chomp
+
  
 puts exit_jukebox(word)
 
