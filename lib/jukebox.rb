@@ -10,7 +10,7 @@ puts help
 end
 
 def list(songs)
-  songs.each_with_index { |item, index|
+  songs.each_with_index { |index, item|
     puts "#{index+1}. #{item}" }
 end 
 
