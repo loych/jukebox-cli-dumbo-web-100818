@@ -1,11 +1,10 @@
-def say_hello(name)
-  "Hi #{name}!"
+def exit_jukebox (word)
 end
  
-puts "Enter your name:"
-users_name = gets.chomp
+puts "Goodbye"
+word = gets.chomp
  
-puts say_hello(users_name)
+puts exit_jukebox(word)
 
 
 songs = [
